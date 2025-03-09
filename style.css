@@ -156,6 +156,9 @@ h3 {
     flex-direction: column;
     gap: 2rem;
   }
+  .grid :last-child {
+    margin-bottom: 10px;
+  }
   .container > h1 {
     font-size: 25px;
   }
